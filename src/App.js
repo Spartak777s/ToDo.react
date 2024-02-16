@@ -1,7 +1,5 @@
-import { useEffect, useState } from 'react'
 import './App.css';
-// import { getUsers } from '../src/api/getusers'
-// import Users from "./components/UsersList/UsersList"
+
 import TodoList from './components/ToDoList/ToDoList'
 
 function App() {
